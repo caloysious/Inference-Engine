@@ -1,0 +1,4 @@
+TELL
+x; x&y&i => z1; y; z2=> z3; i; i=>j; j=>z2; z3=>k; k=> p; z2&k&j&i=> q; r&p=> s;
+ASK
+s

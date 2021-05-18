@@ -1,0 +1,5 @@
+TELL
+p;q;r;s; p=>t; q=>e; n^o=>t; t^e=>u; u&p=>n; s=>o;
+
+ASK
+t
